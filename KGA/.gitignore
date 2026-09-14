@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.py[cod]
+
+#large bert precomputed file
+dataSet/d_w_15k/predata/AVH0.pkl
