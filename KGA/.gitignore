@@ -2,5 +2,8 @@
 __pycache__/
 *.py[cod]
 
+# macOS
+.DS_Store
+
 #large bert precomputed file
 dataSet/d_w_15k/predata/AVH0.pkl
